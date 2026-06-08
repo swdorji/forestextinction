@@ -1,0 +1,19 @@
+Package: forestextinction
+Type: Package
+Title: Calculate forest exctinction risk coeffcient
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Shey", "Dorji",
+      email = "sdorji@ucsb.edu",
+      role = c("aut", "cre")
+    )
+  )
+Description: A package for computing deforestation factors using weighted forest cover change and fire risk scores
+License: 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
